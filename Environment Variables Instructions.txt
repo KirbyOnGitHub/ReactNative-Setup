@@ -1,0 +1,13 @@
+YT Link for Reference: 
+https://www.youtube.com/watch?v=8ejuHsaXiwU
+
+After downloading Android Studio and creating a virtual android device, do this to your PC/LAPTOP:
+
+1. Search and click "Edit environment variables for your account"
+2. Under "User variables for My Pc", click "New"
+3. Input these:
+	3.1 Variable name = ANDROID_HOME
+	3.2 Variable value = C:\Users\My Pc\AppData\Local\Android\Sdk
+4. Under "System variables", click the "Path" then "Edit"
+5. Click "New" and input "C:\Users\My Pc\AppData\Local\Android\Sdk\platform-tools"
+6, Then click "Ok" on all new windows.
